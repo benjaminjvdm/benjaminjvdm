@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjaminjvdm.
 - 👀 I’m interested in everything pertaining to the (Fin)Tech industry.
-- 🌱 I’m currently learning Project Management for Data Science.
+- 🌱 I’m currently learning Advanced Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me [on LinkedIn](https://www.linkedin.com/in/benjaminjvdm/)
+- 📫 Reach me in a jiffy [on LinkedIn](https://www.linkedin.com/in/benjaminjvdm/)
