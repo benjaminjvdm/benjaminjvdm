@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benjaminjvdm.
+- 👋 Hi, I’m [@benjaminjvdm](https://github.com/benjaminjvdm).
 - 👀 I’m interested in everything pertaining to the (Fin)Tech industry.
 - 🌱 I’m currently learning Advanced Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects.
