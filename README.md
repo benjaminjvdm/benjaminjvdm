@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Analysis/Science, Fintech, Gaming**
 
-- 📫 How to reach me **benjaminjamesvandermerwe@gmail.com**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/benjaminjvdm/)
 
 - 📄 Know about my experiences [https://benjaminjvdm.github.io/](https://benjaminjvdm.github.io/)
 
