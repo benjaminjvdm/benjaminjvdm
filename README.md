@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin (James) van der Merwe</h1>
-<h3 align="center">Data Specialist || Python || FinTech || Helping businesses make (Data) Driven Decisions through analysis and model development, as a (Data) Driven Individual!</h3>
+<h3 align="center"> Data Analytics driven Product Management ||👨‍💻 Python + SQL + Excel + Tableau || Enabling businesses to make Data Driven Decisions as a Data Driven Individual!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminjvdm&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminjvdm" /> </p>
 
