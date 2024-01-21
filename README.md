@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Product Management**
 
-- 👨‍💻 All of my projects are available at [https://github.com/benjaminjvdm/portfolio](https://github.com/benjaminjvdm/portfolio)
+- 👨‍💻 All of my projects are available at [https://benjee.echoedge.net](https://benjee.echoedge.net)
 
 - 💬 Ask me about **Data Analysis/Science, Fintech, Gaming**
 
