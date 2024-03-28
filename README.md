@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **benjaminjamesvandermerwe@gmail.com**
 
-- 📄 Know about my experiences [https://benjaminjvdm.github.io/](https://benjaminjvdm.github.io/)
+- 📄 Know about my experiences [https://benjee.echoedge.net/](https://benjee.echoedge.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
