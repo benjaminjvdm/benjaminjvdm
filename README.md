@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminjvdm&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminjvdm" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio]([https://github.com/benjaminjvdm/portfolio](https://benjee.echoedge.net/))
+- 🔭 I’m currently working on [My Portfolio]([https://benjee.echoedge.net/](https://benjee.echoedge.net/))
 
 - 🌱 I’m currently learning **Product Management**
 
