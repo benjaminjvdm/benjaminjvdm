@@ -7,7 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminjvdm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=benjaminjvdm&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ###
 
