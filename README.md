@@ -10,7 +10,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=656,h=783,fit=crop/YrD6Qqg4vrF5o0az/zyro-image-mk3yxqV7J0iV82n9.png"  />
 
 ###
 
