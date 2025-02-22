@@ -13,9 +13,7 @@
 
 ###
 
-<div align="left">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjvdm&hide=javascript,css,scss,html&theme=tokyonight)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminjvdm&hide=&theme=tokyonight)
 
 ###
 
