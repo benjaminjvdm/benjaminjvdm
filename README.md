@@ -3,9 +3,6 @@
 ###
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=benjaminjvdm&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 ###
 
 <br clear="both">
